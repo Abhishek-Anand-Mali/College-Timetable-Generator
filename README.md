@@ -1,6 +1,6 @@
 Smart Timetable Generator
 
-Planova is a smart, web-based timetable generator built with Flask that automates the scheduling of subjects, rooms, labs, and faculty while ensuring conflict-free, workload-balanced, and visually optimized academic timetables.
+web-based timetable generator built with Flask that automates the scheduling of subjects, rooms, labs, and faculty while ensuring conflict-free, workload-balanced, and visually optimized academic timetables.
 
 ## Features
 1. **Dynamic Input Forms** – Add, edit, and remove subjects, rooms, labs, and faculty easily through an interactive interface.
